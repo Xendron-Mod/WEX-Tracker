@@ -1,1 +1,1 @@
-# WEX-Tracker
+# WEX-Tracker is just a very basic website t add all your habits into one place. Many people won't like this website due to lack of features.I created this for just coding practice and I'm a 12th cs student knowing only the basics.. so pls try to understand and i will try to make this website better and better.
