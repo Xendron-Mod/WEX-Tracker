@@ -9,7 +9,6 @@ h1{
 }
 p{
     color: rgb(213, 138, 39);
-    text-align: left;
     font-size: 20px;
 }
 ol{
@@ -64,4 +63,5 @@ ul{
       box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
 
     }
+
 
