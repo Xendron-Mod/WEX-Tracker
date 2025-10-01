@@ -51,7 +51,6 @@ ul{
     input{
         border-radius: 5px;
         padding: 5px;
-        margin-left: 5%;
     }
 .clock {
       position: absolute;
@@ -66,5 +65,6 @@ ul{
       box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
 
     }
+
 
 
